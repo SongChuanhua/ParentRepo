@@ -1,0 +1,6 @@
+[submodule "module_c"]
+	path = module_c
+	url = https://github.com/SongChuanhua/ChildRepo_1.git
+[submodule "proj1/module_1"]
+	path = proj1/module_1
+	url = https://github.com/SongChuanhua/ChildRepo_1.git
